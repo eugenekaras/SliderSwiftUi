@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E910D536293D0732008907DE /* test.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E910D535293D0732008907DE /* test.mp3 */; };
 		E9468C1A293CF1E7007D68A5 /* SliderSwiftUiApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9468C19293CF1E7007D68A5 /* SliderSwiftUiApp.swift */; };
 		E9468C1C293CF1E7007D68A5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9468C1B293CF1E7007D68A5 /* ContentView.swift */; };
 		E9468C1E293CF1E9007D68A5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9468C1D293CF1E9007D68A5 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E910D535293D0732008907DE /* test.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = test.mp3; sourceTree = "<group>"; };
 		E9468C16293CF1E7007D68A5 /* SliderSwiftUi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SliderSwiftUi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9468C19293CF1E7007D68A5 /* SliderSwiftUiApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderSwiftUiApp.swift; sourceTree = "<group>"; };
 		E9468C1B293CF1E7007D68A5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				E9468C19293CF1E7007D68A5 /* SliderSwiftUiApp.swift */,
 				E9468C1B293CF1E7007D68A5 /* ContentView.swift */,
+				E910D535293D0732008907DE /* test.mp3 */,
 				E9468C1D293CF1E9007D68A5 /* Assets.xcassets */,
 				E9468C1F293CF1E9007D68A5 /* Preview Content */,
 			);
@@ -127,6 +130,7 @@
 			files = (
 				E9468C21293CF1E9007D68A5 /* Preview Assets.xcassets in Resources */,
 				E9468C1E293CF1E9007D68A5 /* Assets.xcassets in Resources */,
+				E910D536293D0732008907DE /* test.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
